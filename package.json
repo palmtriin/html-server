@@ -1,0 +1,15 @@
+{
+  "name": "1kt",
+  "version": "0.0.1",
+  "description": "kontrolltoo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve public --port 8080"
+  },
+  "author": "tpalm",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^6.4.1"
+  }
+}
